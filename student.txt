@@ -1,0 +1,3 @@
+Roll NO.	Name	Marks
+--------------------------
+1	muhammad wajahat	50
